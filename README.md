@@ -110,3 +110,8 @@ _Note: All non-word tokens (spaces, symbols, newlines, and characters clicked on
 - **Fuzzy Autocomplete**: Dual-engine matching identifies common typos and phonetically normalized variations.
 - **Visual Keyboard**: A click-to-type virtual drawer for entering special Tamil characters manually.
 - **Offline Reliability**: Full application features function in standard standalone mode using local browser storage if the Python backend is shut down.
+
+## 5. Runnable link 
+- https://tanglish-to-tamil.netlify.app/
+
+- click and see the runnable output , i not host the backend , so local cache , dictionary doesn't work
